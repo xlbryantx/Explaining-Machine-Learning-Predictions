@@ -2,6 +2,7 @@
 Book: [Interpretable Machine Learning][1]
 >## 1. Local Explanations
 >>### 1.1 Feature Importance
+>>>  * [ ] LIME-``Why Should I Trust You?" Explaining the Predictions of Any Classifier 
 >>>  <p><input type="checkbox"/>LIME-``Why Should I Trust You?" Explaining the Predictions of Any Classifier</p>  
 >>>  <p><input type="checkbox"/>SHAP-A Unified Approach to Interpreting Model Predictions</p>  
 >>### 1.2 Rule Based
