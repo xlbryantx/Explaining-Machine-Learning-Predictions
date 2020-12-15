@@ -3,28 +3,28 @@ Book: [Interpretable Machine Learning][1]
 >## 1. Local Explanations
 >>### 1.1 Feature Importance
 >>>  * [ ] LIME-``Why Should I Trust You?" Explaining the Predictions of Any Classifier 
->>>  <p><input type="checkbox"/>LIME-``Why Should I Trust You?" Explaining the Predictions of Any Classifier</p>  
->>>  <p><input type="checkbox"/>SHAP-A Unified Approach to Interpreting Model Predictions</p>  
+
+>>>  * [ ] SHAP-A Unified Approach to Interpreting Model Predictions
 >>### 1.2 Rule Based
->>>  <p><input type="checkbox"/>Anchors: High-Precision Model-Agnostic Explanations</p>  
+>>>  * [ ] Anchors: High-Precision Model-Agnostic Explanations   
 >>### 1.3 Saliency Maps
->>>  <p><input type="checkbox"/>How to Explain Individual Classification Decisions</p>  
->>>  <p><input type="checkbox"/>Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps</p>
->>>  <p><input type="checkbox"/>SmoothGrad: removing noise by adding noise</p>  
->>>  <p><input type="checkbox"/>Axiomatic Attribution for Deep Networks</p>
->>>  <p><input type="checkbox"/>Towards better understanding of gradient-based attribution methods for Deep Neural Networks</p>  
->>>  <p><input type="checkbox"/>Contextual Prediction Difference Analysis for Explaining Individual Image Classifications</p>
->>>  <p><input type="checkbox"/>Learning important features through propagating activation differences</p>  
->>>  <p><input type="checkbox"/>Learning Deep Features for Discriminative Localization</p>  
+>>>  * [ ] How to Explain Individual Classification Decisions   
+>>>  * [ ] Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps 
+>>>  * [ ] SmoothGrad: removing noise by adding noise   
+>>>  * [ ] Axiomatic Attribution for Deep Networks 
+>>>  * [ ] Towards better understanding of gradient-based attribution methods for Deep Neural Networks   
+>>>  * [ ] Contextual Prediction Difference Analysis for Explaining Individual Image Classifications 
+>>>  * [ ] Learning important features through propagating activation differences   
+>>>  * [ ] Learning Deep Features for Discriminative Localization   
 >>### 1.4 Prototypes/Example Based
->>>  <p><input type="checkbox"/>Examples are not enough, learn to criticize! Criticism for Interpretability</p>
->>>  <p><input type="checkbox"/>Representer Point Selection for Explaining Deep Neural Networks</p>
->>>  <p><input type="checkbox"/>Evaluating Explanations: How much do explanations from the teacher aid students?</p>
+>>>  * [ ] Examples are not enough, learn to criticize! Criticism for Interpretability 
+>>>  * [ ] Representer Point Selection for Explaining Deep Neural Networks 
+>>>  * [ ] Evaluating Explanations: How much do explanations from the teacher aid students? 
 >>### 1.5 Counterfactuals
->>>  <p><input type="checkbox"/>Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR</p>
->>>  <p><input type="checkbox"/>Interpretable Counterfactual Explanations Guided by Prototypes</p>
->>>  <p><input type="checkbox"/>Explaining machine learning classifiers through diverse counterfactual explanations</p>
->>>  <p><input type="checkbox"/>Model-agnostic counterfactual explanations for consequential decisions</p>
+>>>  * [ ] Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR 
+>>>  * [ ] Interpretable Counterfactual Explanations Guided by Prototypes 
+>>>  * [ ] Explaining machine learning classifiers through diverse counterfactual explanations 
+>>>  * [ ] Model-agnostic counterfactual explanations for consequential decisions 
 >## 2. Global Explanations
 
 
