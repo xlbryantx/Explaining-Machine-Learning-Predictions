@@ -26,10 +26,22 @@ Book: [Interpretable Machine Learning][1]
 >>>  * [ ] Explaining machine learning classifiers through diverse counterfactual explanations 
 >>>  * [ ] Model-agnostic counterfactual explanations for consequential decisions 
 >## 2. Global Explanations
-
-
-
+>>### 2.1 Collection of Local Explanations
+>>>  * [ ] SP-LIME-``Why Should I Trust You?" Explaining the Predictions of Any Classifier
+>>### 2.2 Representation Based
+>>>  * [ ] Network Dissection: Quantifying Interpretability of Deep Visual Representations
+>>>  * [ ] Compositional Explanations of Neurons
+>>>  * [ ] Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
+>>### 2.3 Model Distillation
+>>>  * [ ]
+>>### 2.4 Summaries of Counterfactuals
 [1]:https://christophm.github.io/interpretable-ml-book/example-based.html
+
+
+
+
+
+
 <!-- 1. Build inherently interpretable predictive models (e.g. Linear models, Decision Trees)
 
 It certain settins, accuracy-interpretability trade offs may exist.
