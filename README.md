@@ -33,8 +33,16 @@ Book: [Interpretable Machine Learning][1]
 >>>  * [ ] Compositional Explanations of Neurons
 >>>  * [ ] Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
 >>### 2.3 Model Distillation
->>>  * [ ]
+>>>  * [ ] Learning Global Additive Explanations for Neutal Nets Using Model Distillation 
+       https://arxiv.org/pdf/1801.08640.pdf
+     * [ ] Interpreting Blackbox Models via Model Extraction
+       https://arxiv.org/abs/1705.08504
+     * [ ] Faithful and Customizable Explanations of Black Box Models
+       https://www-cs.stanford.edu/people/jure/pubs/explanations-aies19.pdf
 >>### 2.4 Summaries of Counterfactuals
+     * [ ]  Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses 
+      https://arxiv.org/pdf/2009.07165.pdf
+      
 [1]:https://christophm.github.io/interpretable-ml-book/example-based.html
 
 
