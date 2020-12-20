@@ -57,7 +57,6 @@ Book: [Interpretable Machine Learning][1]
 >>### 4.2 Understand the Explanations' Behavior
 >>>  * [ ] Visualizing Deep Networks by Optimizing with Integrated Gradients
 >>>  * [ ] Data Shapley: Equitable Valuation of Data for Machine Learning
->>>  * [ ] Anchors: High-Precision Model-Agnostic Explanations
 >>>  * [ ] Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?
 >>>  * [ ] Manipulating and Measuring Model Interpretability
 >>### 4.3 How to Use the Explanations for Debugging
