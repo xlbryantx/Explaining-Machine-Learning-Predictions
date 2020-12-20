@@ -49,10 +49,36 @@ Book: [Interpretable Machine Learning][1]
 >>### 3.2 Explanations in CV 
 >>>  * [ ] None
 >>### 3.3 Explanations in NLP
->>>  * [ ] Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions
+>>>  * [ ] Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions (Prototypes)
+>## 4. Evaluation of Explanations
+>>### 4.1 Examples
+>>>  * [ ] Towards A Rigorous Science of Interpretable Machine Learning
+>>>  * [ ] An Evaluation of the Human-Interpretability of Explanation
+>>### 4.2 Understand the Explanations' Behavior
+>>>  * [ ] Visualizing Deep Networks by Optimizing with Integrated Gradients
+>>>  * [ ] Data Shapley: Equitable Valuation of Data for Machine Learning
+>>>  * [ ] Anchors: High-Precision Model-Agnostic Explanations
+>>>  * [ ] Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?
+>>>  * [ ] Manipulating and Measuring Model Interpretability
+>>### 4.3 How to Use the Explanations for Debugging
+>>>  * [ ] “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+>>>  * [ ] FIND: Human-in-the-Loop Debugging Deep Text Classifiers
+>>>  * [ ] Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications
+>>### 4.4 Help Make Decisions
+>>>  * [ ] On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection
+>>>  * [ ] Teaching Categories to Human Learners with Visual Explanations
+>## 5. Limitations of Post-Hoc Explainability
+>>### 5.1 Faithfulness / Fidelity (explanations do not reflect the underlying model)
+>>>  * [ ] LOCAL EXPLANATION METHODS FOR DEEP NEURAL NETWORKS LACK SENSITIVITY TO PARAMETER VALUES
+>>>  * [ ] When Explanations Lie: Why Many Modified BP Attributions Fail
+>>### 5.2 Fragility (explanations can be easily manipulated)
+>>>  * [ ] Explanations can be manipulated and geometry is to blame
+>>>  * [ ] Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods
+>>>  * [ ] Interpretation of Neural Networks is Fragile
+>>>  * [ ] Fairwashing Explanations with Off-Manifold Detergent (Against manipulation)
 
 
-      
+
 [1]:https://christophm.github.io/interpretable-ml-book/example-based.html
 
 
