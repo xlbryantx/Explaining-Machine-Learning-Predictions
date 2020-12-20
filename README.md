@@ -42,6 +42,13 @@ Book: [Interpretable Machine Learning][1]
 >>### 2.4 Summaries of Counterfactuals
 >>>  * [ ]  Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses 
       https://arxiv.org/pdf/2009.07165.pdf
+>## 3. Explanations in Different Modalities
+>>### 3.1 Explanations in Structured Data
+>>>  * [ ] Matthews 2019 (didnt find)
+>>>  * [ ] Understanding Black-box Predictions via Influence Functions (Prototype based explantions) https://arxiv.org/pdf/1703.04730.pdf
+>>>  * [ ] INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIAN ANALYSIS: BUILDING A BETTER STROKE PREDICTION MODEL 
+(Rule based) https://projecteuclid.org/download/pdfview_1/euclid.aoas/1446488742
+
       
 [1]:https://christophm.github.io/interpretable-ml-book/example-based.html
 
