@@ -76,8 +76,13 @@ Book: [Interpretable Machine Learning][1]
 >>>  * [ ] Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods
 >>>  * [ ] Interpretation of Neural Networks is Fragile
 >>>  * [ ] Fairwashing Explanations with Off-Manifold Detergent (Against manipulation)
-
-
+>>### 5.3 Stability (change in input casuse large changes in explanations)
+>>>  * [ ] On the Robustness of Interpretability Methods
+>>>  * [ ] On the (In)fidelity and Sensitivity for Explanations
+>>>  * [ ] SAM: The Sensitivity of Attribution Methods to Hyperparameters
+>>### 5.3 Usefulness
+>>>  * [ ] Semantically Equivalent Adversarial Rules for Debugging NLP Models 
+>>>  * [ ]  Interpretations are Useful: Penalizing Explanations to Align Neural Networks with Prior Knowledge
 
 [1]:https://christophm.github.io/interpretable-ml-book/example-based.html
 
